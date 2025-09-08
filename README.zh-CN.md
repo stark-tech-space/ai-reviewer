@@ -122,3 +122,4 @@ Agent需要分析代码，并输出一份JSON报告。这份报告需要清晰�
 ## 评测用的示例数据
 
 在开发和测试过程中，可以使用我们提供的示例项目（example1），也可以自行使用github上的项目进行测试。
+示例项目中的`example1/examination.md`内容是完整的`problem_description`。
